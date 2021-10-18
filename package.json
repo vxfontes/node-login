@@ -1,0 +1,15 @@
+{
+  "name": "recode-login",
+  "version": "1.0.0",
+  "description": "tela de login ",
+  "main": "index.js",
+  "author": "vanessa",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
