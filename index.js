@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const usuario = [{ login: "MeuLogin", senha: "MinhaSenha"}];
 app.use("/", routes);
 
 
